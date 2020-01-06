@@ -15,4 +15,4 @@ systemctl restart trojan
 
 客户端下载（v2rayN）
 
-https://github.com/mospring001/trojan/blob/master/v2rayN-win-with-trojan-v2.zip
+https://github.com/mospring001/trojan/raw/master/v2rayN-win-with-trojan-v2.zip
